@@ -1,4 +1,5 @@
 # Early Sensor Fusion for Vision
+
 This project demonstrates the fusion of camera and LiDAR data using the early sensor fusion technique. Early fusion involves combining raw data from multiple sensors before processing. In this project, we utilize the KITTI dataset to fuse image and LiDAR data from specific scenarios. Subsequently, an object detection algorithm is applied to the fused data, resulting in the detection of objects and their distances. The final output can be seen in the following GIF:
 
 ![Early Fusion GIF](./document/early_fusion.gif)
